@@ -15,5 +15,5 @@ Data Curation for ML Training: Curated and organized training datasets for a mac
 
 Privacy & Compliance: Ensured that all data handling adhered to privacy protocols, using only data from customers who had explicitly agreed to share their sensor data for research purposes.
 
-Technologies Used: AWS Glue, Apache Spark, AWS S3, AWS Lambda, Data Lakehouse Architecture, Python
+Technologies Used: AWS Glue, Apache Spark, AWS S3, AWS Athena, Python
 
