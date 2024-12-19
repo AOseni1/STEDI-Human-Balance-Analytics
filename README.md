@@ -3,7 +3,7 @@
 Project 3 of Udacity's Data Engineering with AWS Nanodegree Program
 
 Project Overview:
-As part of the STEDI team, I contributed to the development of a data lakehouse solution to process and curate sensor data for training a machine learning model to detect steps in real-time. This involved extracting data from various sources, including STEDI Step Trainer sensors and a mobile application, and preparing it for use by data scientists to build a machine learning model. I utilized AWS Glue, Apache Spark, and other cloud-based technologies to create a scalable and secure data pipeline.
+Contributed to the development of a data lakehouse solution to process and curate sensor data for training a machine learning model to detect steps in real-time. This involved extracting data from various sources, including STEDI Step Trainer sensors and a mobile application, and preparing it for use by data scientists to build a machine learning model. Utilized AWS Glue, Apache Spark, and other cloud-based technologies to create a scalable and secure data pipeline.
 
 Key Responsibilities:
 
