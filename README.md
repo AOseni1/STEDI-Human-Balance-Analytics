@@ -1,4 +1,4 @@
-# STEDI-Human-Balance-Analytics
+# STEDI Human Balance Analytics
 
 Project 3 of Udacity's Data Engineering with AWS Nanodegree Program
 
